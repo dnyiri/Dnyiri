@@ -23,7 +23,7 @@ Explore the synergy, find possibilities.
 
 ### 🧰 Languages and Tools
 
-<div align="center">
+<div style="display: flex; justify-content: space-between;">
   <img alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img alt="Spring" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
   <img alt="TypeScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
