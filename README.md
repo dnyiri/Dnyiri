@@ -1,6 +1,10 @@
+# 🚀 DnyiriTechQuest
+
+**`Scaling the heights of Development (Fullstack Developer)`**
+
 Welcome to my versatile and cutting-edge development repository that harnesses the power of industry-leading technologies. I combine the robustness of Angular, the interactivity of React.js, the mobile prowess of React Native, and the backend stability of Spring Boot to craft high-performance, cross-platform applications that deliver exceptional user experiences.
 
-🚀 Angular: Utilizing the Angular framework, I create dynamic and responsive web applications that delight users with seamless navigation and interactive interfaces.
+🅰️ Angular: Utilizing the Angular framework, I create dynamic and responsive web applications that delight users with seamless navigation and interactive interfaces.
 
 🌟 React.js: My React.js expertise enables me to build engaging, component-based UIs that ensure a smooth and enjoyable user journey.
 
