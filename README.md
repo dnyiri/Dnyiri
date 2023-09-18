@@ -59,16 +59,16 @@ Explore the synergy, find possibilities.
 
 ### 📊 Stats
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dnyiri&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Dnyiri's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=highcontrast&hide_border=true" /></a> |
+| <a href="https://github.com/dnyiri/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dnyiri&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Dnyiri's github stats" /></a> | <a href="https://github.com/dnyiri/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=highcontrast&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 #### Top Repositories
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/dnyiri/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
 </a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+<a href="https://github.com/dnyiri/dnyiri.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
 </a>
 
