@@ -82,6 +82,7 @@ Welcome to my coding journey! I'm a passionate software engineer with a proven t
 Java: My stronghold for building robust and efficient systems.
 Web Development: Proficient in Angular, React, and React Native for crafting dynamic web and mobile solutions.
 Adaptability: Quick to embrace new technologies and frameworks.
+
 🚀 Full-Stack Mastery:
 
 As a Full-Stack Engineer, I create top-quality systems using cutting-edge tools like Docker, Kubernetes, Jenkins, and CI/CD pipelines for seamless deployment. My commitment lies in driving efficiency, pushing the boundaries of software engineering, and delivering exceptional user experiences.
