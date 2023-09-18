@@ -4,13 +4,7 @@
 
 Welcome to my versatile repo harnessing tech power:
 
-🅰️ Angular: Dynamic web apps.
-
-🌟 React.js: Engaging UIs.
-
-📱 React Native: Mobile reach.
-
-🌐 Spring Boot: Backend strength.
+🅰️ Angular: Dynamic web apps. 🌟 React.js: Engaging UIs. 📱 React Native: Mobile reach. 🌐 Spring Boot: Backend strength.
 
 Explore the synergy, find possibilities.
 
@@ -50,16 +44,16 @@ Explore the synergy, find possibilities.
 
 <br />
 
-#
+<!-- # -->
 
-### 📺 Latest YouTube Videos
+<!-- ### 📺 Latest YouTube Videos -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
 
 
 <!-- END YOUTUBE-CARDS -->
 
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
+<!--  [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1) -->
 
 #
 
