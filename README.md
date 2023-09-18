@@ -48,7 +48,6 @@ Explore the synergy, find possibilities.
 </div>
 
 
-<br />
 
 <!-- # -->
 
